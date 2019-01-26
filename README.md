@@ -3,12 +3,16 @@ El equipo B es lo maximo
 DEMIBIDATE BOTE YOTEBO TE
 M
 
-Andre caradeano
+Andre Maximiliano Calderon Acero
 
-Diegordito Garcia Marquez
+Diego Garcia Gonzalez
 
 Jimenez Orozco Kevin Kaleb
 
 Ricardo Daniel Garibaldi Oliva
  
 Gustavoi Padfilla Fvdfwrgwrgfhf
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> d1369c06356b3e4bfec2466226bc6f81f4a88b09
