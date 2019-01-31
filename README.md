@@ -5,7 +5,7 @@ M
 
 Andre Maximiliano Calderon Acero
 
-Diego Garcia Gonzalez
+Diego Garcia Gonzalez (GrimoriP)
 
 Jimenez Orozco Kevin Kaleb
 
